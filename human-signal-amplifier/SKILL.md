@@ -14,9 +14,7 @@ LinkedIn, I have a job interview coming up, how do I explain my value,
 I want to track my growth, I had an experience I want to capture, I
 want to update my edge profile."
 license: MIT
-compatibility: Works with any agent that supports the Agent Skills
-specification including Claude Code, Codex CLI, Cursor, GitHub
-Copilot, and Gemini CLI
+compatibility: "Works with any agent that supports the Agent Skills specification including Claude Code, Codex CLI, Cursor, GitHub Copilot, and Gemini CLI"
 metadata:
   author: cassandraoid
   version: "0.1"
