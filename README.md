@@ -4,9 +4,9 @@ An agent skill for Claude and other AI agents that helps you
 identify, articulate, and amplify your irreplaceable human value
 in an AI-driven world.
 
-**Not reassurance. Not generic categories. A specific, honest
+Not reassurance. Not generic categories. A specific, honest
 profile of where your human signal lives — and language you
-can actually use. Built to grow with you over time.**
+can actually use. Built to grow with you over time.
 
 **The initial diagnostic takes under 15 minutes.**
 
