@@ -1,20 +1,8 @@
 ---
 name: human-signal-amplifier
-description: "Helps professionals, knowledge workers, leaders, and
-creatives identify, articulate, and amplify their irreplaceable human
-value in an AI-driven world. Use when someone asks what AI cannot
-replace about them, how to position themselves alongside AI, what
-makes their work still valuable, how to talk about their human signal
-in interviews, pitches, or performance reviews, whether their role is
-at risk, or how to find the work only they can do. Also triggers on:
-what do I bring that AI cant, I dont know how to compete with AI, my
-work feels like it could be automated, how do I stand out in an AI
-world, what is still human about what I do, I need to update my
-LinkedIn, I have a job interview coming up, how do I explain my value,
-I want to track my growth, I had an experience I want to capture, I
-want to update my edge profile."
+description: "Helps professionals identify and articulate their irreplaceable human value in an AI-driven world. Use when someone asks what AI cannot replace about them, how to position themselves alongside AI, whether their role is at risk, or how to find work only they can do. Triggers on: what do I bring that AI cant, I dont know how to compete with AI, my work feels automated, how do I stand out, I have a job interview coming up, I want to update my LinkedIn, I had an experience I want to capture, I want to update my edge profile."
 license: MIT
-compatibility: "Works with any agent that supports the Agent Skills specification including Claude Code, Codex CLI, Cursor, GitHub Copilot, and Gemini CLI"
+compatibility: Works with any agent that supports the Agent Skills specification including Claude Code, Codex CLI, Cursor, GitHub Copilot, and Gemini CLI
 metadata:
   author: cassandraoid
   version: "0.1"
